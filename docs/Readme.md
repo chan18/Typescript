@@ -111,3 +111,31 @@ generic object types
 
 # Modules
 
+---
+
+utility types
+
+Decorators
+
+Declaration Merging 
+
+Enums
+
+Iterators and Generators
+
+Mixins
+
+Namespaces
+
+Namespaces and Modules
+
+Symbols
+
+Triple slash directives
+
+type compatability
+
+type inference
+
+variable declaration
+
